@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">chatClient</string>
+
+    <string name="erroreConn">C\'È STATO UN ERRORE ! Riavviare l\'app.</string>
+    <string name="timeoutNonValido">INSERISCI UN TIMEOUT VALIDO !</string>
+    <string name="campiNonInseriti">COMPILA TUTTI I CAMPI !</string>
+
+    <string name="lblInfo_main">Parla con altri\nattraverso il server</string>
+    <string name="hintUsername_main">Username (UNIVOCO, NO \":\" o spazi)</string>
+    <string name="hintAwayMsg_main">Msg inviato quando ti disconnetti</string>
+    <string name="hintTimeout_main">Tempo in SECONDI</string>
+    <string name="hintPassw_main">Password per riconnetterti</string>
+
+    <string name="lblInfo_chat">CHAT ONLINE tramite server</string>
+    <string name="hintTxtMsg_chat">Scrivi il messaggio:</string>
+</resources>
