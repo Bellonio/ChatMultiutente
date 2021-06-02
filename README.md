@@ -17,4 +17,4 @@ SE SI INSERISCE UN USERNAME VALIDO (cioè non si provocano errori) FUNZIONA TUTT
 _Future implementazioni:_
 - ListView per i msg (con layout dei msg tipo come su WhatsApp)
 - Interfaccia/Activity apposta per inviare un msg privato (ora usi "#private#NicknameDestinatario:ciao")
-
+- correggere quel bug
